@@ -1,1 +1,1 @@
-[How to Build a Spam Classifier using Keras and TensorFlow in Python](https://www.thepythoncode.com/article/build-spam-classifier-keras-python)
+[How to Build a Spam Classifier using Keras and TensorFlow in Python](https://www.thepythoncode.com/article/build-spam-classifier-keras-python){:target="_blank"}
